@@ -1,0 +1,3 @@
+## add the branch hot_fix
+## the main purpose is to fix the bug base on the master branch
+without doing nothing -----
